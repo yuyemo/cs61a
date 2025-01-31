@@ -7,3 +7,4 @@ six_sided = make_fair_dice(6)
 def index():
     x=0
     return x
+"""hh"""
